@@ -1,0 +1,99 @@
+{
+  "01-dashboard-style.md": {
+    "status": "pass",
+    "score": 4,
+    "blocker_count": 0,
+    "rules": {
+      "arrow_chain": 1,
+      "bold_density": 1,
+      "emoji_status": 1
+    },
+    "detail": [
+      "arrow_chain:L1",
+      "bold_density:L1",
+      "emoji_status:L1"
+    ]
+  },
+  "02-translationese.md": {
+    "status": "review",
+    "score": 21,
+    "blocker_count": 1,
+    "rules": {
+      "chenggong_de": 1,
+      "ending_cliche": 1,
+      "lecture_marker": 2,
+      "passive_density": 1,
+      "vague_degree": 1,
+      "weak_verb": 2,
+      "weak_verb_quota": 1,
+      "youyu_shide": 1,
+      "zhiyi": 1,
+      "zuochu": 1
+    },
+    "detail": [
+      "chenggong_de:L5",
+      "ending_cliche:L11",
+      "lecture_marker:L11",
+      "lecture_marker:L3",
+      "passive_density:L1",
+      "vague_degree:L5",
+      "weak_verb:L3",
+      "weak_verb:L5",
+      "weak_verb_quota:L1",
+      "youyu_shide:L5",
+      "zhiyi:L7",
+      "zuochu:L5"
+    ]
+  },
+  "03-label-wall.md": {
+    "status": "pass",
+    "score": 2,
+    "blocker_count": 0,
+    "rules": {
+      "bold_density": 1,
+      "label_wall": 1
+    },
+    "detail": [
+      "bold_density:L1",
+      "label_wall:L5"
+    ]
+  },
+  "04-clean-pass.md": {
+    "status": "pass",
+    "score": 0,
+    "blocker_count": 0,
+    "rules": {},
+    "detail": []
+  },
+  "05-fullwidth-boundary.md": {
+    "status": "pass",
+    "score": 3,
+    "blocker_count": 0,
+    "rules": {
+      "long_clause": 1,
+      "paren_stack": 1
+    },
+    "detail": [
+      "long_clause:L1",
+      "paren_stack:L1"
+    ]
+  },
+  "06-legit-terms.md": {
+    "status": "pass",
+    "score": 0,
+    "blocker_count": 0,
+    "rules": {},
+    "detail": []
+  },
+  "07-bushi-ershi.md": {
+    "status": "pass",
+    "score": 1,
+    "blocker_count": 0,
+    "rules": {
+      "bushi_ershi": 1
+    },
+    "detail": [
+      "bushi_ershi:L1"
+    ]
+  }
+}

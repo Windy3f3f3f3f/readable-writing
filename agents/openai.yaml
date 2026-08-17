@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文可读写作"
+  short_description: "改进中文报告、分享稿与交接文档的结构、语气和整体可读性"
+  default_prompt: "使用 $readable-writing 选择合适的文档类型，理顺叙事结构，并在不改变事实的前提下修改中文表达。"
+
+policy:
+  allow_implicit_invocation: true
